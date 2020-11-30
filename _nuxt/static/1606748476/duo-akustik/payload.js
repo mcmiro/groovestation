@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/duo-akustik", {data:[{}],fetch:[],mutations:void 0});

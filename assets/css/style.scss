@@ -1,0 +1,165 @@
+body {
+  width: 100%;
+  padding: 0;
+  overflow-x: hidden
+}
+
+.bg-theme {
+  background-color: #c743d2
+}
+
+.bg-theme:hover {
+  color: #fff
+}
+
+.light .bg-theme {
+  background-color: #fff !important
+}
+
+.light .bg-theme:hover {
+  color: #c743d2
+}
+
+nav ul li {
+  left: 0;
+  width: 80%;
+  transform-origin: 0 0;
+  white-space: nowrap
+}
+
+nav ul li,
+nav ul li:hover {
+  position: relative;
+  transition-duration: .3s
+}
+
+nav ul li:hover {
+  transform: scale(1.2);
+  z-index: 999
+}
+
+nav ul li a:hover {
+  cursor: pointer;
+  -webkit-text-stroke: 1px #fff;
+  color: transparent
+}
+
+.font-montserrat-regular,
+body {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400
+}
+
+.font-montserrat-bold {
+  font-family: Montserrat, sans-serif;
+  font-weight: 900
+}
+
+.text-b4009e {
+  color: #b4009e
+}
+
+.text-8a00d3 {
+  color: #8a00d3
+}
+
+.bg-f0f0fe {
+  background-color: #f0f0fe
+}
+
+.bg-64309a {
+  background-color: #64309a
+}
+
+.bg-1329b9 {
+  background-color: #1329b9
+}
+
+.bg-8a00d3 {
+  background-color: #8a00d3
+}
+
+.bg-f24cdf-50 {
+  background-color: rgba(160, 0, 141, .7)
+}
+
+.bg-f24cdf-50:hover {
+  background-color: rgba(103, 0, 81, .8)
+}
+
+.bg-150086-75 {
+  background-color: rgba(21, 0, 134, .75)
+}
+
+.bg-150086-75:hover {
+  background-color: rgba(2, 9, 64, .84)
+}
+
+.-top-100 {
+  top: -100px
+}
+
+.text-bordered p {
+  -webkit-text-stroke: 1px #000236;
+  color: transparent
+}
+
+.text-bordered h5 {
+  color: #000236
+}
+
+.text-bordered h5:hover {
+  -webkit-text-stroke: 1px #000236;
+  color: transparent
+}
+
+.text-right-to-left {
+  position: relative;
+  float: right;
+  width: 40%;
+  transition: all .5s ease-in-out;
+  opacity: 0
+}
+
+.text-right-to-left.move {
+  opacity: 1
+}
+
+.text-left-to-right {
+  position: relative;
+  width: 40%;
+  left: 40%;
+  transition: all .5s ease-in-out
+}
+
+.text-left-to-right.move {
+  opacity: 1
+}
+
+@media only screen and (max-width:767px) {
+
+  .text-left-to-right,
+  .text-right-to-left {
+    display: none
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:930px) {
+  .text-right-to-left.move {
+    width: 80%
+  }
+
+  .text-left-to-right.move {
+    left: 62%
+  }
+}
+
+@media only screen and (min-width:931px) {
+  .text-right-to-left.move {
+    width: 72%
+  }
+
+  .text-left-to-right.move {
+    left: 62%
+  }
+}

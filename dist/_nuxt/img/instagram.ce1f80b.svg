@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Gruppe_423" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 89.3 89.3" style="enable-background:new 0 0 89.3 89.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Ellipse_29_1_);}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.073;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+</style>
+<linearGradient id="Ellipse_29_1_" gradientUnits="userSpaceOnUse" x1="25.7247" y1="65.4362" x2="25.7607" y2="63.0392" gradientTransform="matrix(20.8894 -68.4202 -68.4182 -20.8888 3949.9507 3161.697)">
+	<stop  offset="0" style="stop-color:#F20533"/>
+	<stop  offset="0" style="stop-color:#F105A8"/>
+	<stop  offset="1" style="stop-color:#7B05F2"/>
+</linearGradient>
+<ellipse id="Ellipse_29" class="st0" cx="44.7" cy="44.7" rx="35.8" ry="35.8"/>
+<g id="Gruppe_422" transform="translate(23.571 24.986)">
+	<path id="Pfad_109" class="st1" d="M31.1,1.1L31.1,1.1z"/>
+	<g id="Gruppe_421" transform="translate(8.47 8.279)">
+		<path id="Pfad_110" class="st2" d="M12.6,23.9c6.9,0,12.5-5.6,12.5-12.5c0-6.9-5.6-12.5-12.5-12.5S0.1,4.5,0.1,11.4c0,0,0,0,0,0
+			C0.1,18.3,5.7,23.9,12.6,23.9z M3.1,11.4c0-5.2,4.2-9.5,9.5-9.5c5.2,0,9.5,4.2,9.5,9.5c0,5.2-4.2,9.5-9.5,9.5
+			C7.4,20.9,3.1,16.6,3.1,11.4z"/>
+	</g>
+	<path id="Pfad_111" class="st2" d="M33.6,40.5h-25c-4.7,0-8.5-3.8-8.5-8.5V7.4c0-4.7,3.8-8.5,8.5-8.5h25c4.7,0,8.5,3.8,8.5,8.5V32
+		C42.1,36.7,38.3,40.5,33.6,40.5z M8.6,2c-3,0-5.4,2.4-5.4,5.4V32c0,3,2.4,5.4,5.4,5.4h25c3,0,5.4-2.4,5.4-5.4V7.4
+		c0-3-2.4-5.4-5.4-5.4H8.6z"/>
+</g>
+</svg>

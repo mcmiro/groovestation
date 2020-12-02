@@ -10,7 +10,7 @@ UI Design 👰 **Anita <anita.ilic@hotmail.com>**
 
 👤 **Miroljub Grujin <miro.grujin@hotmail.com>**
 
-- [Demo](https://testowsky.com/groovestation)
+- [Live](https://groovestation.at)
 - [GitHub](https://github.com/mcmiro)
 
 ## License
